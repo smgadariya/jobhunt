@@ -25,7 +25,6 @@ public class AmazonDemo {
 			}
 		}
 		return 1;
-
 	}
 
 
